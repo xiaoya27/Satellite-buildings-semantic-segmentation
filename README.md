@@ -73,4 +73,4 @@ TODO:
 
 Cuz : Warning: Tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
 
-1. 
+2. FCN-8 + EfficientNet as encoder
